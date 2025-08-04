@@ -1,7 +1,7 @@
 # FUTURE_CS_01
 WEB APPLICATION SECURITY TESTING
 
-## ✅ Task Overview
+## Task Overview
 This repository contains the work for **Task 1: Web Application Security Testing** as part of the **Cyber Security Internship** offered by **Future Interns**.
 
 The objective of this task was to identify and analyze common web vulnerabilities such as:
@@ -11,7 +11,7 @@ The objective of this task was to identify and analyze common web vulnerabilitie
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 - **Burp Suite** – Manual testing and proxy analysis
 - **OWASP ZAP** – Automated scanning and XSS detection
 - **SQLMap** – SQL Injection exploitation
@@ -20,7 +20,7 @@ The objective of this task was to identify and analyze common web vulnerabilitie
 
 ---
 
-## 📄 Deliverable
+## Deliverable
 A detailed PDF report (`report.pdf`) that includes:
 - Introduction to the task
 - Description of tools used
@@ -31,7 +31,7 @@ A detailed PDF report (`report.pdf`) that includes:
 
 ---
 
-## 📎 Useful Links
+## Useful Links
 - [DVWA GitHub](https://github.com/digininja/DVWA)
 - [Burp Suite](https://portswigger.net/burp)
 - [OWASP ZAP](https://www.zaproxy.org/)
@@ -40,7 +40,7 @@ A detailed PDF report (`report.pdf`) that includes:
 
 ---
 
-## 👨‍💻 Intern Details
+## Intern Details
 **Name:** Vivek Yadav  
 **Track Code:** CS  
 **Task Number:** 1  
